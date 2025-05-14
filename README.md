@@ -1,3 +1,6 @@
+FWIW this was vibe coded. So... yea. 
+
+
 # 🌿 Naturah — Headless Shopify Storefront
 
 A modern, elegant, and fully customizable headless storefront for the Naturah watercolor kit brand. Built with Next.js, Tailwind CSS, Shadcn UI, and powered by Shopify's Storefront API.
@@ -14,8 +17,8 @@ A modern, elegant, and fully customizable headless storefront for the Naturah wa
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/Naturah/naturah-shop.git
-cd naturah-shop
+git clone https://github.com/Naturah/headless_shopify-template.git
+cd headless_shopify-template
 ```
 
 ### 2. Install dependencies
